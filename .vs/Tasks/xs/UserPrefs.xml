@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{E1099530-9B64-4EE0-986C-1B716F6FBECC}|Default">
+  <MonoDevelop.Ide.ItemProperties.Humans PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Humans/ListHumans.cs">
+    <Files>
+      <File FileName="Humans/Program.cs" Line="20" Column="1" />
+      <File FileName="Humans/Man.cs" Line="19" Column="65" />
+      <File FileName="Humans/Teenager.cs" Line="16" Column="1" />
+      <File FileName="Humans/Worker.cs" Line="14" Column="14" />
+      <File FileName="Humans/ListHumans.cs" Line="7" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tasks" expanded="True">
+            <Node name="Humans" expanded="True">
+              <Node name="ListHumans.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.quadraticEquation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{3ECB8992-3687-45C4-9EDD-6015854F2CAA}|Default">
+  <MonoDevelop.Ide.ItemProperties.Humans FirstBuild="True" />
   <MonoDevelop.Ide.Workbench ActiveDocument="quadraticEquation/Program.cs">
     <Files>
-      <File FileName="quadraticEquation/Program.cs" Line="27" Column="43" />
+      <File FileName="quadraticEquation/Program.cs" Line="23" Column="87" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
