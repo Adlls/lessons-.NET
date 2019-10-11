@@ -1,0 +1,11 @@
+/Users/admin/Projects/quadraticEquation/quadraticEquation/bin/Debug/netcoreapp2.1/quadraticEquation.deps.json
+/Users/admin/Projects/quadraticEquation/quadraticEquation/bin/Debug/netcoreapp2.1/quadraticEquation.runtimeconfig.json
+/Users/admin/Projects/quadraticEquation/quadraticEquation/bin/Debug/netcoreapp2.1/quadraticEquation.runtimeconfig.dev.json
+/Users/admin/Projects/quadraticEquation/quadraticEquation/bin/Debug/netcoreapp2.1/quadraticEquation.dll
+/Users/admin/Projects/quadraticEquation/quadraticEquation/bin/Debug/netcoreapp2.1/quadraticEquation.pdb
+/Users/admin/Projects/quadraticEquation/quadraticEquation/obj/Debug/netcoreapp2.1/quadraticEquation.csprojAssemblyReference.cache
+/Users/admin/Projects/quadraticEquation/quadraticEquation/obj/Debug/netcoreapp2.1/quadraticEquation.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/quadraticEquation/quadraticEquation/obj/Debug/netcoreapp2.1/quadraticEquation.AssemblyInfoInputs.cache
+/Users/admin/Projects/quadraticEquation/quadraticEquation/obj/Debug/netcoreapp2.1/quadraticEquation.AssemblyInfo.cs
+/Users/admin/Projects/quadraticEquation/quadraticEquation/obj/Debug/netcoreapp2.1/quadraticEquation.dll
+/Users/admin/Projects/quadraticEquation/quadraticEquation/obj/Debug/netcoreapp2.1/quadraticEquation.pdb
