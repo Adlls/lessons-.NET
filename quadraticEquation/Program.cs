@@ -24,7 +24,7 @@ namespace quadraticEquation
 
             double D = b * b - 4 * a * c;
             int countr = D > 0 ? 2 : 0;
-            countr = D == 0 ? 1 : countr;
+            countr = D == 0 ? 1 : countr; 
 
             if (countr != 0) {
                 x1 = (-1 * b + Math.Sqrt(D)) / 2 * a;
