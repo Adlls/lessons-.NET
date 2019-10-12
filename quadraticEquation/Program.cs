@@ -23,8 +23,7 @@ namespace quadraticEquation
         public int desqe(double a, double b, double c, ref double  x1, ref double x2) {
 
             double D = b * b - 4 * a * c;
-            int countr = D > 0 ? 2 : 0;
-            countr = D == 0 ? 1 : countr; 
+            int countr = D > 0 ? 2 : (int)D == 0 ? 1 : 0;
 
             if (countr != 0) {
                 x1 = (-1 * b + Math.Sqrt(D)) / 2 * a;

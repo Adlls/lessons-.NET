@@ -14,12 +14,24 @@ namespace Humans
             }
         }
 
-        public Teenager()
+        public Teenager():base()
+        {
+        }
+
+        public Teenager(string name, int age) : base(name, age)
+        {
+        }
+
+        public Teenager(Teenager prev): base(prev)
         {
         }
 
         public override string ToString() => $"Teenager {this.Name} {this.Age}";
         public override bool Equals(object obj) => base.Equals(obj);
-        public override int GetHashCode() => base.GetHashCode();
+
+        public override int GetHashCode()
+        {
+            return Name.Length * Age * Age;
+        }
     }
 }

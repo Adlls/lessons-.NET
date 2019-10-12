@@ -8,3 +8,4 @@
 /Users/admin/Projects/quadraticEquation/Humans/obj/Debug/netcoreapp2.1/Humans.AssemblyInfo.cs
 /Users/admin/Projects/quadraticEquation/Humans/obj/Debug/netcoreapp2.1/Humans.dll
 /Users/admin/Projects/quadraticEquation/Humans/obj/Debug/netcoreapp2.1/Humans.pdb
+/Users/admin/Projects/quadraticEquation/Humans/obj/Debug/netcoreapp2.1/Humans.csprojAssemblyReference.cache

@@ -21,6 +21,17 @@ namespace Humans
             listHumans[2].Age = 15;
             listHumans[2].Name = "Jastin";
             Console.WriteLine(listHumans[2]);
+
+           // listHumans[3] = new Man("Tony", 20);
+
+            //Man m1 = new Man("Tony", 20);
+
+
+            Console.WriteLine(listHumans);
+
+
+
+
         }
     }
 }
