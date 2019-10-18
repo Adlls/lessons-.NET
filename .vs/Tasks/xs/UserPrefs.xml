@@ -1,19 +1,19 @@
 ﻿<Properties StartupConfiguration="{E1099530-9B64-4EE0-986C-1B716F6FBECC}|Default">
   <MonoDevelop.Ide.ItemProperties.Humans PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Humans/Man.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Humans/ListHumans.cs">
     <Files>
-      <File FileName="Humans/Program.cs" Line="8" Column="10" />
-      <File FileName="Humans/ListHumans.cs" Line="12" Column="26" />
-      <File FileName="Humans/Teenager.cs" Line="22" Column="55" />
-      <File FileName="Humans/Worker.cs" Line="19" Column="10" />
-      <File FileName="Humans/Man.cs" Line="18" Column="65" />
+      <File FileName="Humans/Program.cs" Line="30" Column="13" />
+      <File FileName="Humans/ListHumans.cs" Line="19" Column="55" />
+      <File FileName="Humans/Teenager.cs" />
+      <File FileName="Humans/Worker.cs" />
+      <File FileName="Humans/Man.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Tasks" expanded="True">
             <Node name="Humans" expanded="True">
-              <Node name="Man.cs" selected="True" />
+              <Node name="ListHumans.cs" selected="True" />
             </Node>
           </Node>
         </State>

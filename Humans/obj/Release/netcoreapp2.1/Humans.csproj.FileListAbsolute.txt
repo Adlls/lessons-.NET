@@ -1,0 +1,10 @@
+/Users/admin/Projects/quadraticEquation/Humans/bin/Release/netcoreapp2.1/Humans.deps.json
+/Users/admin/Projects/quadraticEquation/Humans/bin/Release/netcoreapp2.1/Humans.runtimeconfig.json
+/Users/admin/Projects/quadraticEquation/Humans/bin/Release/netcoreapp2.1/Humans.runtimeconfig.dev.json
+/Users/admin/Projects/quadraticEquation/Humans/bin/Release/netcoreapp2.1/Humans.dll
+/Users/admin/Projects/quadraticEquation/Humans/bin/Release/netcoreapp2.1/Humans.pdb
+/Users/admin/Projects/quadraticEquation/Humans/obj/Release/netcoreapp2.1/Humans.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/quadraticEquation/Humans/obj/Release/netcoreapp2.1/Humans.AssemblyInfoInputs.cache
+/Users/admin/Projects/quadraticEquation/Humans/obj/Release/netcoreapp2.1/Humans.AssemblyInfo.cs
+/Users/admin/Projects/quadraticEquation/Humans/obj/Release/netcoreapp2.1/Humans.dll
+/Users/admin/Projects/quadraticEquation/Humans/obj/Release/netcoreapp2.1/Humans.pdb

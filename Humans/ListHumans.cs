@@ -1,16 +1,39 @@
 ﻿using System;
+using System.Collections.Generic;
+
 namespace Humans
 {
     public class ListHumans
     {
        private Man[] mans;
-       //public class LinkedList<T> : IEnumerable<T>  // односвязный список
+        //LinkedList<string> linkedList = new LinkedList<string>();
+        
 
-       public Man this[int index] { get =>  mans[index]; set => mans[index] = value; }
+        public Man this[int index] {
+            get
+            {
+                try { return mans[index]; }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("Cannot find human for index - " + index);
+                    return null;
+                }
+            }
+
+            set
+            {
+                Man[] oldmans = mans;
+                mans = new Man[index+1];
+                for (int i = 0; i < index; i++) mans[i] = oldmans[i];
+                mans[index] = value;
+            }
+        }
 
         public ListHumans()
         {
-            mans = new Man[3];
+            //mans = new Man[3];
+
+            
         }
 
         public override string ToString()

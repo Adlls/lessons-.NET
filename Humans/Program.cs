@@ -12,22 +12,21 @@ namespace Humans
             listHumans[0].Name = "Alesha";
             Console.WriteLine(listHumans[0]);
 
+           
             listHumans[1] = new Worker();
             listHumans[1].Age = 21;
             listHumans[1].Name = "Bob";
             Console.WriteLine(listHumans[1]);
-
+            
             listHumans[2] = new Teenager();
             listHumans[2].Age = 15;
             listHumans[2].Name = "Jastin";
             Console.WriteLine(listHumans[2]);
-
-           // listHumans[3] = new Man("Tony", 20);
-
-            //Man m1 = new Man("Tony", 20);
-
-
+           
+            listHumans[3] = new Man("Tony", 20);
             Console.WriteLine(listHumans);
+
+            Console.WriteLine(listHumans[5]);
 
 
 
